@@ -1,4 +1,6 @@
 # praktikum-kecerdasan-buatan
-KECERDASAN BUATAN
-Nama : Muhammad Gilang Ramadhan
-NIM : G.211.22.0060
+
+KECERDASAN BUATAN</br>
+Nama : Muhammad Gilang Ramadhan</br>
+NIM : G.211.22.0060</br>
+Kelas : B3
